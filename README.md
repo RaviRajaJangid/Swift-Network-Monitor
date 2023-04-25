@@ -35,4 +35,5 @@ Enter package URL :  https://github.com/RaviRajaJangid/swift-network-monitor, ch
 - Recomonded way to use block callback or change subscription event in controller viewWillAppear method
 and call back should set to null in viewWillDisappear
 
-[for more details you can check the example project in example folder](https://github.com/RaviRajaJangid/swift-network-monitor/Example/ExampleNetworkMonitor)
+[for more details you can check the example project in example folder](https://github.com/RaviRajaJangid/Swift-Network-Monitor/tree/main/Example
+)
